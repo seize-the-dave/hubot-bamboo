@@ -6,7 +6,11 @@
   
   "licenses": [{
     "type": "MIT",
-    "url": "https://raw.github.com/seize-the-dave/hubot/master/LICENSE"
+    "url": "https://raw.github.com/seize-the-dave/hubot-bamboo/master/LICENSE"
   }],
   
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/seize-the-dave/hubot-bamboo.git"
+  }
 }
