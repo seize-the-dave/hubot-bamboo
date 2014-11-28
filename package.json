@@ -1,0 +1,11 @@
+{
+  "name": "hubot-bamboo",
+  "version": "0.1.0",
+  
+  "author": "David Grant",
+  
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://raw.github.com/seize-the-dave/hubot/master/LICENSE"
+  }]
+}
