@@ -7,3 +7,4 @@ See also
 --------
 
 * [Hubot Scripts Organization](https://github.com/hubot-scripts)
+* [Bamboo REST APIs](https://developer.atlassian.com/display/BAMBOODEV/REST+APIs)
