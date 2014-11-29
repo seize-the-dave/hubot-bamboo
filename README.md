@@ -8,3 +8,5 @@ See also
 
 * [Hubot Scripts Organization](https://github.com/hubot-scripts)
 * [Bamboo REST APIs](https://developer.atlassian.com/display/BAMBOODEV/REST+APIs)
+  * [Bamboo REST Resources](https://developer.atlassian.com/display/BAMBOODEV/Bamboo+REST+Resources)
+  * [Using the Bamboo REST APIs](https://developer.atlassian.com/display/BAMBOODEV/Using+the+Bamboo+REST+APIs)
